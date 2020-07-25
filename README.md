@@ -15,7 +15,7 @@ This is a website that helps the financial industry in protecting customers and 
  - M.V.C. is a good measure to be used  as a framework, since it keeps data secure.
   
   
-    ````bash To make the customers aware:-````
+    ```` To make the customers aware:-````
  - making small animated videos and putting them in a discrete manner that it does not interfere much with the customer’s workflow and is also able to make them aware about their safety and security measures.
 
 <div align="center">
