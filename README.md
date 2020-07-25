@@ -6,7 +6,7 @@ This is a website that helps the financial industry in protecting customers and 
 
 ### Solution
     
-    To make the system secure and customers aware:-
+    TO MAKE THE SYSTEM SECURE AND CUSTOMERS AWARE:-
  - password is kept encrypted with a security key, ip address and device is tracked during the session to make sure its the same user who logs in next time.
  - Database is also encrypted to make sure that the information is safe.
  - P.D.O. and prepare statements are used to prevent sql injections.
