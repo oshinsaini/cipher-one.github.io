@@ -17,7 +17,7 @@ This is a website that helps the financial industry in protecting customers and 
  
 
 <div align="center">
-<img src="logo.jpeg" width="300" height="250">
+<img src="logo.jpeg" width="360" height="250">
 </div>
 
 
