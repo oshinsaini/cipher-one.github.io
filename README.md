@@ -16,7 +16,6 @@ This is a website that helps the financial industry in protecting customers and 
  - making small animated videos and putting them in a discrete manner that it does not interfere much with the customer’s workflow and is also able to make them aware about their safety and security measures.
 
 <div align="center">
-
 <img src="logo.jpg" width="350" height="300">
 </div>
 
@@ -43,12 +42,20 @@ To make a fun and interacting website to create awareness about CYBER SECURITY a
 -  JavaScript
 -  GitHub
 
+[The database is made in MySql and the backend linking is done with the help of Php. The front end is made in HTML and CSS. 
+The front end has login and sign-up page, the data is simultaneously saved in the database and compared to check if there is no breach.
+For the purpose of awareness, there are small text and videos which make the information easy to understand and intersenting.]
+
+
 ## 🚀 Tech Architecture
  - The framework is M.V.C.and the device recogisatin is done by adding details of user in his every session and during login, They are matched to check if it is ame device or not.     ip address, device, cookies are tracked.
  - All the data is retrieved by Php, and the data in the database is encrypted by standard AES algo. P.D.O. connection and prepare statements are used to prevent sql injections.
  - Virtual keyboard is also used to stop keyloggers since keystrokes can be tracked and can be used to breach account.
-
-
+ 
+ <div align="center">
+<img src="tech-arch.jpg" width="350" height="300">
+</div>
+ 
 ## 📝 Learning Resources
 
 Read these articles to get a quick grab on github pages:
