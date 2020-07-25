@@ -1,22 +1,21 @@
-# PROJECT: ENTERTAIN THE CREW
-  This project is a part of Engage'20 Mentorship Program. 
-  
-  check presentation: perseverance.pptx
-  
-  check Technical Documents:
+# PROJECT: BANKING SOLUTIONS- Cipher One*
  
 ### About the project:
- Engaging the Crew by Using Minimax algorithm to build an unbeatable Tic Tac Toe game powered by AI.
-    
-    This project is made under the `Microsoft Mars colonization program` organized by Microsoft.
-    It is a game website that provides tic tac toe games with additional features. This project is made under consideration of providing an entertainment platform to our crew 
-    members during our Mars colonization program. We have designed different versions of the game using terminology level 1/level 2/ unbeatable etc. There are 6 different 
-    versions of the same game we are providing on our website. The main highlight of this project is we have developed a new class of a game using the same set of rules of 
-    tic-tac-toe but have a  3D version with some additional features and rules.
 
-   In this project our goal is to take traditional tic-tac-toe to another level. For this purpose we are aimed to implement some currently used algorithms to shift the 2 player
-   mode to one player by making one move to be played by computer. In our second phase of development we aimed to make the game more interesting and increase the difficulty level 
-   of game by proving some additional features and in last phase, we train our computer to make move in our new design game with different level of smartness. 
+This is a website that helps the financial industry in protecting customers and be always ahead of the hackers in building more secure solutions ranging from secure mobile solutions to more optimized and secure encryption algorithms. Apart from that we have introduced a fun way to aware our customers by videos and awareness gallery.
+
+#### Solution
+    
+    To make the system secure:-
+ - password is kept encrypted with a security key, ip address and device is tracked during the session to make sure its the same user who logs in next time.
+ - Database is also encrypted to make sure that the information is safe.
+ - P.D.O. and prepare statements are used to prevent sql injections.
+ - Firewalls should be used to prevent the breach which is caused by making the system loaded.
+ - Tunnel security is also an essential factor to make sure the site is secure.
+ - M.V.C. is a good measure to be used  as a framework, since it keeps data secure.
+  
+  To make the customers aware:-
+ - making small animated videos and putting them in a discrete manner that it does not interfere much with the customer’s workflow and is also able to make them aware about their safety and security measures.
 
 <div align="center">
 
@@ -29,18 +28,16 @@
  
  ➡️   [Tech Stack](#-tech-stack)
 
- ➡️   [Project Structure](#-project-structure)
- 
- ➡️   [Setup Development Environment](#-steps-to-setup-development-environment)
+ ➡️   [Tech Architecture](#-tech-architecture)
  
  ➡️   [Learning Resources](#-learning-resources)
  
- ➡️   [User Manual](#-user-manual)
+ ➡️   [Uniqueness](#-Uniqueness)
  
  ➡️   [Owner](#-owner)
  
  ## 👩‍ Vision
-To make a fun and interacting game with exciting rules! A platform to learn while you enjoy!
+To make a fun and interacting website to create awareness about CYBER SECURITY and providing help to financial industry.
 
 ## 🔆 Tech Stack
 -  HTML
@@ -48,19 +45,11 @@ To make a fun and interacting game with exciting rules! A platform to learn whil
 -  JavaScript
 -  GitHub
 
-## 🤷 Project Structure
-<div align="center">
+## 🚀 Tech Architecture
+ - The framework is M.V.C.and the device recogisatin is done by adding details of user in his every session and during login, They are matched to check if it is ame device or not.     ip address, device, cookies are tracked.
+ - All the data is retrieved by Php, and the data in the database is encrypted by standard AES algo. P.D.O. connection and prepare statements are used to prevent sql injections.
+ - Virtual keyboard is also used to stop keyloggers since keystrokes can be tracked and can be used to breach account.
 
-<img src="ps.jpg" width="600" height="450">
-</div>
-
-## 🚀 Steps to setup development environment
-1.  Clone the repo
- ```bash
- git clone github.com/your_username/perseverance-20.git
- ```
- 2. Open the folder in your favorite code editor and start adding modifications.
- 3. Or just view it on our site "https://perseverance-20.github.io".
 
 ## 📝 Learning Resources
 
@@ -70,9 +59,11 @@ Read these articles to get a quick grab on github pages:
 Resources to learn Git:
 -  https://try.github.io/
  
- ## 💼 User Manual
- checkout our presentation ("perseverance.pptx")
- 
+ ## 💼 Uniqueness
+ - Device Recognition- By tracking IP address, Cookies, Browser and O.S.
+ - Virtual keyboard- In order to prevent track of keystrokes
+ - Animated Videos- For the purpose of awareness
+
  
  ## 👬 Owner
 <img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width="100px;" alt=""/>
@@ -82,3 +73,5 @@ Resources to learn Git:
 ## 🧐 View Project
 ⭐ [Check out the website of cipher-one](https://cipher-one.github.io/)
  
+ 
+ *-ongoing project
