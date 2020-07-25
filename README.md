@@ -4,7 +4,7 @@
 
 This is a website that helps the financial industry in protecting customers and be always ahead of the hackers in building more secure solutions ranging from secure mobile solutions to more optimized and secure encryption algorithms. Apart from that we have introduced a fun way to aware our customers by videos and awareness gallery.
 
-#### Solution
+### Solution
     
     To make the system secure:-
  - password is kept encrypted with a security key, ip address and device is tracked during the session to make sure its the same user who logs in next time.
@@ -14,7 +14,8 @@ This is a website that helps the financial industry in protecting customers and 
  - Tunnel security is also an essential factor to make sure the site is secure.
  - M.V.C. is a good measure to be used  as a framework, since it keeps data secure.
   
-     ````To make the customers aware:-````
+  
+    ````bash To make the customers aware:-````
  - making small animated videos and putting them in a discrete manner that it does not interfere much with the customer’s workflow and is also able to make them aware about their safety and security measures.
 
 <div align="center">
