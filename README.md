@@ -16,7 +16,7 @@ This is a website that helps the financial industry in protecting customers and 
  - making small animated videos and putting them in a discrete manner that it does not interfere much with the customer’s workflow and is also able to make them aware about their safety and security measures.
 
 <div align="center">
-<img src="logo.jpg" width="350" height="300">
+<img src="logo.jpg" width="400" height="350">
 </div>
 
 
@@ -53,7 +53,7 @@ For the purpose of awareness, there are small text and videos which make the inf
  - Virtual keyboard is also used to stop keyloggers since keystrokes can be tracked and can be used to breach account.
  
  <div align="center">
-<img src="tech-arch.jpg" width="350" height="300">
+<img src="tech-arch.jpg" width="400" height="300">
 </div>
  
 ## 📝 Learning Resources
