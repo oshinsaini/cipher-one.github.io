@@ -16,7 +16,7 @@ This is a website that helps the financial industry in protecting customers and 
  - making small animated videos and putting them in a discrete manner that it does not interfere much with the customer’s workflow and is also able to make them aware about their safety and security measures.
 
 <div align="center">
-<img src="logo.jpg" width="400" height="350">
+<img src="logo.jpeg" width="400" height="350">
 </div>
 
 
